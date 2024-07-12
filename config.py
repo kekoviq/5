@@ -98,22 +98,21 @@ command = ["/"]
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
 )
-PLAYLIST_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-STATS_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-TELEGRAM_AUDIO_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-TELEGRAM_VIDEO_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-STREAM_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-SOUNCLOUD_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-YOUTUBE_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-SPOTIFY_ARTIST_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-SPOTIFY_ALBUM_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "رابط الصورة: https://i.ibb.co/CmgqvY3/a4479a4e17c0.jpg"
-
+PLAYLIST_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/5b2796af23fb744231a50.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
