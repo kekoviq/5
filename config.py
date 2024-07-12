@@ -4,7 +4,7 @@ from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
 
-super_sudoers = [6855645033]
+super_sudoers = [6653337615]
 
 load_dotenv()
 
@@ -24,7 +24,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 2000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6855645033))
+OWNER_ID = int(getenv("OWNER_ID", 6653337615))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
